@@ -1,1 +1,2 @@
-print('My first git projects!!!')
+# Autor is Vladislav Shikin
+print('hello python')
